@@ -5,6 +5,9 @@ Images should be analyzed evaluated on several levels. Visual analysis is an imp
 
 Image analysis is a broad term that may be defined quite differently by those working in diverse fields. Originally, image analysis was used to describe the extraction of numerical information from pictures. Since the process of placing pictures into a form that could be analyzed digitally was cumbersome, and the computers used to analyze such pictures were slow, image analysis was performed ‘off line’ and quite often at sites far removed from where the image was originally recorded. As software techniques for image analysis improved, and computers became faster and more affordable, image analysis became more widely used, in many fields and disciplines. Image analysis encompasses many areas: machine vision, graphic arts, pattern matching, photometry, 
 
+
+Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions.
+
 ## Image processing in Python
 
 scikit-image is a collection of algorithms for image processing. It is available free of charge and free of restriction. We pride ourselves on high-quality, peer-reviewed code, written by an active community of volunteers.

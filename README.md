@@ -1,5 +1,5 @@
 # Analyze Images
-It is important to analyze and evaluate images you use for research, study, and presentations. Images should be analyzed and evaluated like any other source, such as journal articles or books, to determine their quality, reliability, and appropriateness.
+It is important to analyze and evaluate images you use for research , study, and presentations. Images should be analyzed and evaluated like any other source, such as journal articles or books, to determine their quality, reliability, and appropriateness.
 
 Images should be analyzed evaluated on several levels. Visual analysis is an important step in evaluating an image and understanding its meaning. It is also important to consider textual information provided with the image, the image source and original context of the image, and the technical quality of the image. The following questions can help guide your analysis and evaluation.
 
